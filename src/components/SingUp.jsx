@@ -70,7 +70,7 @@ const SingUp = () => {
           check: false,
         })
       } else {
-        notify("Invalid Dat!" ,"error")
+        notify("Invalid Data!" ,"error")
         setTouch({
             name: true,
             email: true,
