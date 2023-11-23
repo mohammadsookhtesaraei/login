@@ -9,10 +9,13 @@ This is a simple login and register form with React+ Vite
 
 ## Features
 1.Creating a registration form with validation capability.
+
 2.Sending data to the server.
 ## Resources
 1.Axios
+
 2.React-Router-Dom v.6
+
 3.Toastify react
 
 
